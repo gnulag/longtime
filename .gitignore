@@ -1,0 +1,8 @@
+/*build*/*
+
+# Vim temp files.
+*.sw?
+*.un~
+
+# Mac crap.
+*.DS_Store
